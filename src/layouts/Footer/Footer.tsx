@@ -18,7 +18,7 @@ function Footer() {
             justifyContent={"space-between"}
             position="relative"
           >
-            <Text>Hecho por Nicolás Faienza.</Text>
+            <Text>Hecho por Juan Agustín Savoy.</Text>
 
             <img
               style={{
@@ -39,14 +39,14 @@ function Footer() {
 
             <HStack gap="4">
               <a
-                href="https://www.linkedin.com/in/nicolas-faienza/"
+                href="https://www.linkedin.com/in/juan-agustin-savoy-9b1103202/"
                 target={"_blank"}
                 rel="noreferrer"
               >
                 <BsLinkedin size="25px" cursor={"pointer"} />
               </a>
               <a
-                href="https://github.com/Nicofaienza"
+                href="https://github.com/agustinsavoy1"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -69,14 +69,14 @@ function Footer() {
 
           <HStack gap="4">
             <a
-              href="https://www.linkedin.com/in/nicolas-faienza/"
+              href="https://www.linkedin.com/in/juan-agustin-savoy-9b1103202/"
               target={"_blank"}
               rel="noreferrer"
             >
               <BsLinkedin size="25px" cursor={"pointer"} />
             </a>
             <a
-              href="https://github.com/Nicofaienza"
+              href="https://github.com/agustinsavoy1"
               target={"_blank"}
               rel="noreferrer"
             >
