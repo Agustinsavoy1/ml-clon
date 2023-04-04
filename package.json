@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nicofaienza.github.io/ml-clon",
-  "name": "mercadolibre-challengue",
+  "homepage": "https://ml-clon.vercel.app",
+  "name": "mercadolibre-clon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
